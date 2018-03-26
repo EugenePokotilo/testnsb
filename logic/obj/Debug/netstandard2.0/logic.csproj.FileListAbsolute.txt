@@ -1,0 +1,9 @@
+D:\Projects\ConsoleTest\logic\bin\Debug\netstandard2.0\logic.deps.json
+D:\Projects\ConsoleTest\logic\bin\Debug\netstandard2.0\logic.dll
+D:\Projects\ConsoleTest\logic\bin\Debug\netstandard2.0\logic.pdb
+D:\Projects\ConsoleTest\logic\obj\Debug\netstandard2.0\logic.csprojResolveAssemblyReference.cache
+D:\Projects\ConsoleTest\logic\obj\Debug\netstandard2.0\logic.csproj.CoreCompileInputs.cache
+D:\Projects\ConsoleTest\logic\obj\Debug\netstandard2.0\logic.AssemblyInfoInputs.cache
+D:\Projects\ConsoleTest\logic\obj\Debug\netstandard2.0\logic.AssemblyInfo.cs
+D:\Projects\ConsoleTest\logic\obj\Debug\netstandard2.0\logic.dll
+D:\Projects\ConsoleTest\logic\obj\Debug\netstandard2.0\logic.pdb

@@ -1,0 +1,16 @@
+D:\Projects\ConsoleTest\tests\obj\Debug\netcoreapp2.0\tests.csproj.CoreCompileInputs.cache
+D:\Projects\ConsoleTest\tests\obj\Debug\netcoreapp2.0\tests.AssemblyInfoInputs.cache
+D:\Projects\ConsoleTest\tests\obj\Debug\netcoreapp2.0\tests.AssemblyInfo.cs
+D:\Projects\ConsoleTest\tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Projects\ConsoleTest\tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+D:\Projects\ConsoleTest\tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+D:\Projects\ConsoleTest\tests\bin\Debug\netcoreapp2.0\tests.deps.json
+D:\Projects\ConsoleTest\tests\bin\Debug\netcoreapp2.0\tests.runtimeconfig.json
+D:\Projects\ConsoleTest\tests\bin\Debug\netcoreapp2.0\tests.runtimeconfig.dev.json
+D:\Projects\ConsoleTest\tests\bin\Debug\netcoreapp2.0\tests.dll
+D:\Projects\ConsoleTest\tests\bin\Debug\netcoreapp2.0\tests.pdb
+D:\Projects\ConsoleTest\tests\bin\Debug\netcoreapp2.0\logic.dll
+D:\Projects\ConsoleTest\tests\bin\Debug\netcoreapp2.0\logic.pdb
+D:\Projects\ConsoleTest\tests\obj\Debug\netcoreapp2.0\tests.csproj.CopyComplete
+D:\Projects\ConsoleTest\tests\obj\Debug\netcoreapp2.0\tests.dll
+D:\Projects\ConsoleTest\tests\obj\Debug\netcoreapp2.0\tests.pdb

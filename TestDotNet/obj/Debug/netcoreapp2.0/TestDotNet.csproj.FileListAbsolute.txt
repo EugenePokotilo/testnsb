@@ -1,0 +1,14 @@
+D:\Projects\ConsoleTest\TestDotNet\bin\Debug\netcoreapp2.0\TestDotNet.deps.json
+D:\Projects\ConsoleTest\TestDotNet\bin\Debug\netcoreapp2.0\TestDotNet.runtimeconfig.json
+D:\Projects\ConsoleTest\TestDotNet\bin\Debug\netcoreapp2.0\TestDotNet.runtimeconfig.dev.json
+D:\Projects\ConsoleTest\TestDotNet\bin\Debug\netcoreapp2.0\TestDotNet.dll
+D:\Projects\ConsoleTest\TestDotNet\bin\Debug\netcoreapp2.0\TestDotNet.pdb
+D:\Projects\ConsoleTest\TestDotNet\bin\Debug\netcoreapp2.0\logic.dll
+D:\Projects\ConsoleTest\TestDotNet\bin\Debug\netcoreapp2.0\logic.pdb
+D:\Projects\ConsoleTest\TestDotNet\obj\Debug\netcoreapp2.0\TestDotNet.csprojResolveAssemblyReference.cache
+D:\Projects\ConsoleTest\TestDotNet\obj\Debug\netcoreapp2.0\TestDotNet.csproj.CoreCompileInputs.cache
+D:\Projects\ConsoleTest\TestDotNet\obj\Debug\netcoreapp2.0\TestDotNet.AssemblyInfoInputs.cache
+D:\Projects\ConsoleTest\TestDotNet\obj\Debug\netcoreapp2.0\TestDotNet.AssemblyInfo.cs
+D:\Projects\ConsoleTest\TestDotNet\obj\Debug\netcoreapp2.0\TestDotNet.csproj.CopyComplete
+D:\Projects\ConsoleTest\TestDotNet\obj\Debug\netcoreapp2.0\TestDotNet.dll
+D:\Projects\ConsoleTest\TestDotNet\obj\Debug\netcoreapp2.0\TestDotNet.pdb
